@@ -53,7 +53,7 @@ Config.Locations = {
     ["stations"] = {
         [1] = {label = "NYPD", coords = vector4(-54.58, -81.35, -5.48, 26.37)},
         [2] = {label = "Prison", coords = vector4(1845.903, 2585.873, 45.672, 272.249)},
-        [3] = {label = "Police Station Paleto", coords = vector4(-451.55, 6014.25, 31.716, 223.81)},
+      --  [3] = {label = "Police Station Brooklyn", coords = vector4(-451.55, 6014.25, 31.716, 223.81)},
     },
 }
 
