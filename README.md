@@ -1,5 +1,5 @@
 # qb-policejob
-Police Job for QB-Core Framework :police_officer:
+Police Job for NYC QB-Core Framework :police_officer:
 ## NYC MAPS
 - [CRM DEVELOPMENT](https://discord.gg/crm)  
 - [Hell Script Shop](https://discord.gg/WKNRDtF9jp)
