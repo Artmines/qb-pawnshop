@@ -1,6 +1,10 @@
 # qb-policejob
 Police Job for QB-Core Framework :police_officer:
-
+## NYC MAPS
+- [CRM DEVELOPMENT](https://discord.gg/crm)  
+- [Hell Script Shop](https://discord.gg/WKNRDtF9jp)
+## Dependancy
+- [PS-UI](https://github.com/Project-Sloth/ps-ui) This for break cuff minigame
 # License
 
     QBCore Framework
